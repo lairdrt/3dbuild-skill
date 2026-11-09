@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D Print Collaborator"
+  short_description: "Chat-first OpenSCAD design with GitHub commits and local live preview"
+  default_prompt: "Help me design and print a part. Develop the parametric OpenSCAD source through my authorized GitHub repository and let me inspect each revision in OpenSCAD after I pull."
